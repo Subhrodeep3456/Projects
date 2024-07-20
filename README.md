@@ -1,1 +1,1 @@
-This whole repo is a list of the projects that are made by me
+For Sudoku Project make sure the index.html and app.css files are outside the static folder and everything else is as it is. 'js' folder contains the three .js extension files and the 'images' folder contains the logo
